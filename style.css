@@ -25,13 +25,17 @@ body {
   }
   
   .page-subtitle {
-    color: #000000;
-    margin-top: 16px;
+    color: #ffffff;
+    text-shadow:  
+    0 0 0.2em #000000,
+    0 0 0.2em #000000,
+    0 0 0.4em #000000;
+    margin-top: 150px;
     font-weight: normal;
   }
   
   .page-logo {
-    margin-top:340px;
+    margin-top:200px;
     width: 200px;
   }
   
